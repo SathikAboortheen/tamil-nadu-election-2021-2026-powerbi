@@ -1,0 +1,16 @@
+{
+  "name": "TN Assembly Neutral Analytics",
+  "dataColors": [
+    "#1F4E79",
+    "#2F7C78",
+    "#607D9A",
+    "#7A8793",
+    "#A5ADB5",
+    "#374151",
+    "#8B9AA8",
+    "#526A7A"
+  ],
+  "background": "#F8F9FB",
+  "foreground": "#1E232A",
+  "tableAccent": "#1F4E79"
+}
